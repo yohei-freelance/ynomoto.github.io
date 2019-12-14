@@ -38,6 +38,7 @@ header {
   height: 500px;
   background-color: #f7f7f7;
   color: black;
-  font-family: "Century Gothic"
+  font-family: "Century Gothic";
+  text-align: left;
 }
 
