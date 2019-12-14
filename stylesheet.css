@@ -26,6 +26,7 @@ header {
   padding: 0 25px;
   color: white;
   display: block;
+  float: right;
 }
 
 .container {
