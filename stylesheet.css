@@ -8,6 +8,10 @@ body {
   margin: 0 auto;
 }
 
-.background{
-  width: 100%;
+.top-wrapper {
+  padding: 180px 0 100px 0;
+  background-image: url(images/cosmos.jpg);
+  background-size: cover;
+  color: white;
+  text-align: center;
 }
