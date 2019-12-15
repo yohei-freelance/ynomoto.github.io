@@ -50,6 +50,7 @@ h2 {
 
 .main-wrapper{
   margin: 0 auto;
+  margin-bottom: 50px;
   background-size: cover;
   background-color: #262626;
   color: white;
