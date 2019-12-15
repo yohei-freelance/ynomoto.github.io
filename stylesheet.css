@@ -34,6 +34,11 @@ h2 {
   margin: 0;
 }
 
+.profile{
+  width: 30px;
+  height: 30px;
+}
+
 .top-wrapper {
   margin: 0 auto;
   padding: 180px 0 100px 0;
@@ -55,5 +60,5 @@ h2 {
 .main-wrapper .container{
   width: 80%;
   text-align: left;
-  margin-left: 10%;
+  margin-left: 20%;
 }
