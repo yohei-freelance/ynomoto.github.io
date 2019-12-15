@@ -23,7 +23,6 @@ header {
 
 .header-right a {
   line-height: 65px;
-  padding: 0 25px;
   color: white;
   display: inline-block;
   float: left;
@@ -46,7 +45,7 @@ header {
   background-color: #f7f7f7;
   color: black;
   font-family: "Century Gothic";
-  text-align: left;
+  text-align: center;
   width; 80%;
 }
 
