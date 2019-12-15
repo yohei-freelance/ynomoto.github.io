@@ -11,6 +11,11 @@ header {
   z-index: 10;
 }
 
+.face{
+  width: 100px;
+  height: 100px;
+}
+
 dd {
   font-weight: normal;
 }
