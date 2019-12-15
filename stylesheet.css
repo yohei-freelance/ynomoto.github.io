@@ -46,9 +46,10 @@ h2 {
   background-color: black;
   color: white;
   font-family: "Century Gothic";
-  text-align: left;
+  text-align: center;
 }
 
 .main-wrapper .container{
   width: 80%;
+  text-align: left;
 }
