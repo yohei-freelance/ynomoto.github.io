@@ -1,8 +1,6 @@
 body {
   margin: 0;
   font-family: "Hiragino Kaku Gothic ProN";
-  background-color: black;
-  color: white;
 }
 
 header {
@@ -62,10 +60,9 @@ ul li:before {
 }
 
 .main-wrapper{
-  padding: 0 100px 0 100px;
   background-size: cover;
-  background-color: #f7f7f7;
-  color: black;
+  background-color: black;
+  color: white;
   font-family: "Century Gothic";
   text-align: left;
   width; 80%;
