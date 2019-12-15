@@ -115,3 +115,11 @@ textarea{
 .item{
   margin-left: 15%;
 }
+
+.icon::before {
+  display: inline-block;
+  margin-right: .5em;
+  font-family: fontawesome;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
