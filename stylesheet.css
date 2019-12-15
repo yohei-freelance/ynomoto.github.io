@@ -17,7 +17,7 @@ header {
   transition: all 0.5s;
 }
 
-.about :hover {
+.header-right :hover {
   background-color: rgba(255, 255, 255, 0.5);
 }
 
@@ -26,10 +26,6 @@ header {
   color: white;
   display: inline-block;
   float: left;
-}
-
-.container {
-  width: 80%;
 }
 
 .top-wrapper {
@@ -45,7 +41,7 @@ header {
   background-color: #f7f7f7;
   color: black;
   font-family: "Century Gothic";
-  text-align: center;
+  text-align: left;
   width; 80%;
 }
 
