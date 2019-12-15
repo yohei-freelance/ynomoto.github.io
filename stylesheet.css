@@ -72,9 +72,10 @@ h2 {
   height: 40px;
 }
 
-input:-moz-placeholder {
-    color: red;
-    font-weight: bold;
+::placeholder {
+  color: red;
+  font-weight: bold;
+  font-size: 30px;
 }
 
 textarea{
