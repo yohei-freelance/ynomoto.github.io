@@ -29,7 +29,7 @@ header {
   padding: 0 20px 0 0;
 }
 
-h1 {
+h2 {
   color: #ccff33;
 }
 
@@ -47,5 +47,8 @@ h1 {
   color: white;
   font-family: "Century Gothic";
   text-align: left;
+}
+
+.main-wrapper .container{
   width: 80%;
 }
