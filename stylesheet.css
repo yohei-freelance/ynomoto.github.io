@@ -67,12 +67,14 @@ h2 {
   font-size: 32px
 }
 
-.email-input{
+.input{
   width: 450px;
+  height: 100px;
 }
 
 textarea{
   width: 450px;
+  height: 300px;
 }
 
 .contact-submit{
