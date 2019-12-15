@@ -71,7 +71,7 @@ h2 {
 .input{
   width: 450px;
   height: 40px;
-  margin: 0 30%;
+  margin-left: 30%;
 }
 
 ::placeholder {
@@ -89,7 +89,7 @@ textarea{
 
 .btn {
   padding: 8px 24px;
-  margin: 0 30%;
+  margin-left: 30%;
   color: white;
   display: inline-block;
   opacity: 0.8;
@@ -102,7 +102,7 @@ textarea{
 
 .message {
   padding: 15px 40px;
-  margin: 0 30%;
+  margin-left: 30%;
   background-color: #5dca88;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
