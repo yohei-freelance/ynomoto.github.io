@@ -65,7 +65,8 @@ h2 {
 }
 
 .logo{
-  font-size: 32px
+  font-size: 32px;
+  color: white;
 }
 
 .input{
