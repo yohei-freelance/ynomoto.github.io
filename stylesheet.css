@@ -140,8 +140,14 @@ ul {
   list-style: none;
 }
 
-li:before {
+.double-right:before {
   font-family: FontAwesome;
   content: '\f101';
   color: #ccff33;
 }
+
+ .single-right:before {
+  font-family: FontAwesome;
+  content: '\f105';
+  color: #ccff33;
+ }
