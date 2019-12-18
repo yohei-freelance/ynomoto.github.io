@@ -135,3 +135,12 @@ textarea{
   -moz-osx-font-smoothing: grayscale;
   color: white;
 }
+
+ul {
+  list-style: none;
+}
+
+li:before {
+  font-family: FontAwesome;
+  content: '\f101';
+}
