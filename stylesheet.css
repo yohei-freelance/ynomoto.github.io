@@ -140,13 +140,13 @@ ul {
   list-style: none;
 }
 
-.double-right:before {
+.double-right li:before {
   font-family: FontAwesome;
   content: '\f101';
   color: #ccff33;
 }
 
- .single-right:before {
+ .single-right li:before {
   font-family: FontAwesome;
   content: '\f105';
   color: #ccff33;
