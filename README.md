@@ -2,4 +2,4 @@ This is the code for the website of yohei-freelance.
 
 https://kodocode.net/design-css-textbox/
 
-jsのコードを含めてサイトを書き直す.
+HTMLとCSSだけのシンプルなポートフォリオです. 日本語と英語両方あります.
