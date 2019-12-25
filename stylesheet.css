@@ -1,6 +1,8 @@
 body {
   margin: 0;
-  font-family: Meiryo;
+  font-family: 'Arial', sans-serif;
+  height: 100%;
+  width: 100%;
 }
 
 header {
