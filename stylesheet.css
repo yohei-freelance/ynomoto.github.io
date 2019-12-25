@@ -71,7 +71,7 @@ h2 {
   text-decoration: none;
 }
 
-.input{
+input{
   position: relative;
   display: block;
   width: 40%;
@@ -85,13 +85,21 @@ h2 {
 }
 
 
-
 ::placeholder {
   font-size: 15px;
 }
 
 textarea{
+  position: relative;
+  display: block;
   width: 40%;
+  margin-top: 50px;
+  padding: 15px;
+  border: none;
+  border-radius: 5px;
+  font-size: 16px;
+  color: #a0a0a0;
+  outline: none;
   height: 80px;
 }
 
