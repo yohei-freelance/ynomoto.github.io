@@ -101,7 +101,7 @@ textarea{
 
 .btn {
   padding: 8px 24px;
-  margin-left: 30%;
+  margin-left: 45%;
   color: white;
   display: inline-block;
   opacity: 0.8;
@@ -114,7 +114,7 @@ textarea{
 
 .message {
   padding: 15px 40px;
-  background-color: #5dca88;
+  background-color: #ccff33;
   cursor: pointer;
   box-shadow: 0 7px #1a7940;
 }
