@@ -187,4 +187,16 @@ figure.past-work {
 
 .each-work {
   display: inline-block;
-  width: 300px;
+  width: 40%;
+  margin-right: 30px;
+  margin-bottom: 30px;
+}
+
+.each-work img {
+  height: 100%;
+}
+
+
+
+
+
