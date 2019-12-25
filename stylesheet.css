@@ -1,6 +1,6 @@
 body {
   margin: 0;
-  font-family: "Meiryo";
+  font-family: Meiryo;
 }
 
 header {
@@ -84,7 +84,7 @@ textarea{
   height: 80px;
 }
 
-.item{
+.nice-textbox{
   position: relative;
   display: block;
   width: 40%;
