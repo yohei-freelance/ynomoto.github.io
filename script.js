@@ -1,5 +1,5 @@
 $(document).ready(function(){
-   $('input').blur(function() {
+   $('.nice-textbox').blur(function() {
         if($(this).val().length === 0){
           $('.nice-label').removeClass("focus");
         }
