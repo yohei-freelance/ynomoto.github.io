@@ -75,25 +75,16 @@ h2 {
   color: #ccff33;
 }
 
-input{
-  position: relative;
-  display: block;
-  width: 40%;
-  margin-top: 50px;
-  padding: 15px;
-  border: none;
-  border-radius: 5px;
-  font-size: 16px;
-  color: #a0a0a0;
-  outline: none;
-}
-
 
 ::placeholder {
   font-size: 15px;
 }
 
 textarea{
+  height: 80px;
+}
+
+.item{
   position: relative;
   display: block;
   width: 40%;
@@ -104,7 +95,6 @@ textarea{
   font-size: 16px;
   color: #a0a0a0;
   outline: none;
-  height: 80px;
 }
 
 .contact-submit{
@@ -135,10 +125,6 @@ textarea{
   position: relative;
   top: 7px;
   box-shadow: none;
-}
-
-.item{
-  margin-left: 30%;
 }
 
 .icon::before {
