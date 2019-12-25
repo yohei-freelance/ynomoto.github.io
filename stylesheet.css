@@ -184,3 +184,7 @@ figure.past-work {
   float: left;
   padding-right: 20px;
 }
+
+.each-work {
+  display: inline-block;
+  width: 40%;
