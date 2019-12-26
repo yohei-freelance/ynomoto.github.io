@@ -60,7 +60,7 @@ h2 {
   text-align: center;
 }
 
-.container{
+.main-wrapper .container{
   width: 90%;
   height: auto;
   text-align: left;
