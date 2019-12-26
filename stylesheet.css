@@ -199,7 +199,6 @@ ul {
 }
 
 .content {
-  display: inline-block;
   margin-top: 20px;
   width: 90%;
   height: auto;
@@ -207,10 +206,12 @@ ul {
 }
 
 .content-icon {
+  display: inline-box;
   position: relative;
 }
 
 .comment {
+  display: inline-box;
   width: 40%;
   margin-top: 20px;
   margin-left: 20px;
