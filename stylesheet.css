@@ -213,6 +213,8 @@ ul {
 }
 
 .content-list {
+  display: inline-box;
+  float: left;
   margin-left: 30px;
 }
 
