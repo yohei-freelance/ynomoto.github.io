@@ -193,8 +193,10 @@ ul {
 }
 
 .content {
+  margin-top: 20px;
   float: left;
-  width: 30%;
+  width: 33%;
+  height: auto;
 }
 
 .content-icon {
