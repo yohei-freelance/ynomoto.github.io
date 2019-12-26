@@ -221,5 +221,6 @@ ul {
 }
 
 .content-ele {
+  display: inline-block;
   float: left;
 }
