@@ -60,7 +60,7 @@ h2 {
   text-align: center;
 }
 
-.main-wrapper .container{
+.container{
   width: 90%;
   height: auto;
   text-align: left;
@@ -195,7 +195,7 @@ ul {
 .content {
   margin-top: 20px;
   float: left;
-  width: 33%;
+  width: 30%;
   height: auto;
 }
 
