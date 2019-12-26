@@ -202,6 +202,7 @@ ul {
   margin-top: 20px;
   width: 90%;
   height: auto;
+  display: inline-box;
   float: left;
 }
 
@@ -216,4 +217,5 @@ ul {
   margin-top: 20px;
   margin-left: 20px;
   color: white;
+  float: left;
 }
