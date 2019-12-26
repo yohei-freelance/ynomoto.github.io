@@ -209,6 +209,11 @@ ul {
 .content-icon {
   display: inline-box;
   position: relative;
+  float: left;
+}
+
+.content-list {
+  margin-left: 30px;
 }
 
 .comment {
@@ -217,10 +222,5 @@ ul {
   margin-top: 20px;
   margin-left: 20px;
   color: white;
-  float: left;
-}
-
-.content-ele {
-  display: inline-block;
   float: left;
 }
