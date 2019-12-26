@@ -24,6 +24,10 @@ header {
 }
 
 .header-right a {
+  position: absolute;
+  left: 0;
+  right: 0;
+  margin: auto;
   line-height: 65px;
   color: white;
   display: inline-block;
