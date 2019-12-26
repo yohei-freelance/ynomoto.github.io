@@ -62,6 +62,7 @@ h2 {
 
 .main-wrapper .container{
   width: 90%;
+  height: auto;
   text-align: left;
   margin-left: 5%;
 }
@@ -190,7 +191,6 @@ figure.past-work {
 
 .each-work {
   display: inline-block;
-  width: 200px;
   margin-right: 30px;
   margin-bottom: 30px;
 }
@@ -198,4 +198,5 @@ figure.past-work {
 .fig-space {
   width: 80%;
   margin: 10%;
+  float: left;
 }
