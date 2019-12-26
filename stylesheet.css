@@ -89,6 +89,20 @@ textarea{
 
 /* Contact  */
 
+.contact-wrapper {
+  height: 1000px;
+  padding-bottom: 80px;
+  background-color: #262626;
+  text-align: left;                                                                                                                                                                                                                       
+  color: white;
+}  
+
+.contact-container {
+  width: 90%;
+  height: auto;
+  margin-left: 5%;
+}
+
 div.wrap {
   width: 500px;
   position: absolute;
