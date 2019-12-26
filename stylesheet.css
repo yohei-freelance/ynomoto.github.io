@@ -91,10 +91,7 @@ textarea{
 div.wrap {
   width: 500px;
   position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  vertical-align: middle;
+  margin-top: 280px;
 }
 
 div.wrap div {
@@ -108,7 +105,7 @@ label {
   font-size: 30px;
   margin: 10px;
   padding: 0 10px;
-  background-color: teal;
+  background-color: ;
   -webkit-transition: top .2s ease-in-out,  font-size .2s ease-in-out;
   transition: top .2s ease-in-out,  font-size .2s ease-in-out;
 }
@@ -121,9 +118,9 @@ label {
 input[type=text] {
   width: 100%;
   padding: 20px;
-  border: 1px solid white;
+  border: 1px solid #ccff33;
   font-size: 20px;
-  background-color: teal;
+  background-color: #262626;
   color: white;
 }
 
