@@ -24,15 +24,11 @@ header {
 }
 
 .header-right a {
-  position: absolute;
-  left: 0;
-  right: 0;
-  margin: auto;
   line-height: 65px;
   color: white;
   display: inline-block;
   float: left;
-  padding: 0 20px 0 0;
+  padding: 0 10px 0 10px;
   text-decoration: none;
 }
 
