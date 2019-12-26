@@ -195,4 +195,7 @@ figure.past-work {
   margin-bottom: 30px;
 }
 
-
+.fig-space {
+  width: 80%;
+  margin: 10%;
+}
