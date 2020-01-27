@@ -13,6 +13,14 @@ header {
   z-index: 10;
 }
 
+.menu-icon {
+  color: white;
+  float: right;
+  font-size: 25px;
+  padding: 21px 0;
+  display: none;
+}
+
 .header-right {
   float: right;
   background-color: rgba(255, 255, 255, 0.3);
