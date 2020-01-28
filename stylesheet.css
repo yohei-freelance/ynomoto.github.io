@@ -43,6 +43,7 @@ header {
 h2 {
   color: #ccff33;
   margin: 0;
+  font-size: 25px;
 }
 
 .profile{
@@ -101,7 +102,7 @@ textarea{
   height: 1000px;
   padding-bottom: 80px;
   background-color: #262626;
-  text-align: left;                                                                                                                                                                                                                       
+  text-align: left;
   color: white;
 }  
 
